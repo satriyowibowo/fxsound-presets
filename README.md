@@ -18,4 +18,5 @@ Feedback and further tuning based on your specific use case are encouraged.
 
 # Device
 ASRock B550M-Pro4 on board soundcard.
-7.1 CH HD Audio with Content Protection (Realtek ALC1220/ALC1200 Audio Codec) with Nahimic Audio feature disabled.
+<br>7.1 CH HD Audio with Content Protection (Realtek ALC1220/ALC1200 Audio Codec)
+<br>Nahimic Audio disabled.
